@@ -1,9 +1,19 @@
 # Udacity-Design_of_Computer_Programs
 
+
 -------
 
 ## Design_of_Computer_Programs
+Udacity
 
+
+-------
+
+## EditOR-IN-CHIEF Allen B. Tucker COMPUTER Science handbook
+https://e-maxx.ru/bookz/files/tucker.pdf
+
+-------
+## Design_of_Computer_Programs
 
 
 ### LESSON 1
